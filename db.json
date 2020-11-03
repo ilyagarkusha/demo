@@ -2,6 +2,10 @@
   { "name": "Hires OÜ", "address": "Harju maakond, Tallinn, Kesklinna linnaosa, Maakri 1000-47", "tag": "Kinnisvaraarendus"},
   { "name": "Kinnisvara 2 OÜ", "address": "2118 Thornridge Cir. Syracuse, Connecticut 35624", "tag": "Kinnisvaraarendus"},
   { "name": "Aitue OÜ", "address": "2464 Royal Ln. Mesa, New Jersey 45463", "tag": "Kinnisvaraarendus"},
-  { "name": "Clasifika OÜ", "address": "6391 Elgin St. Celina, Delaware 10299", "tag": "Kinnisvaraarendus"}
+  { "name": "Clasifika OÜ", "address": "6391 Elgin St. Celina, Delaware 10299", "tag": "Kinnisvaraarendus"},
+  { "name": "Capifrance OÜ", "address": "8502 Preston Rd. Inglewood, Maine 98380", "tag": "Kinnisvaraarendus"},
+  { "name": "Namo OÜ", "address": "3517 W. Gray St. Utica, Pennsylvania 57867", "tag": "Kinnisvaraarendus"},
+  { "name": "Mitshubishi Estate OÜ", "address": "3517 W. Gray St. Utica, Pennsylvania 57867", "tag": "Kinnisvaraarendus"},
+  { "name": "Sales Management OÜ", "address": "1901 Thornridge Cir. Shiloh, Hawaii 81063", "tag": "Kinnisvaraarendus"}
  ]
 
